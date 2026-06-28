@@ -127,32 +127,6 @@ stack:      MERN · Next.js · REST APIs · Cloud Deployments
       </p>
       <p>✅ Deployed on Vercel &nbsp;·&nbsp; REST API &nbsp;·&nbsp; JWT Auth</p>
     </td>
-    <td width="50%" valign="top">
-      <h3>💬 Real-Time Chat Application</h3>
-      <p>A full-featured real-time messaging platform built with WebSockets. Supports multiple rooms, live user presence indicators, and instant delivery.</p>
-      <p>
-        <code>React</code> <code>Node.js</code> <code>Socket.io</code> <code>MongoDB</code> <code>Express.js</code>
-      </p>
-      <p>✅ Live bidirectional &nbsp;·&nbsp; Room-based &nbsp;·&nbsp; Auth system</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛒 E-Commerce Platform</h3>
-      <p>End-to-end e-commerce application with product catalog, cart management, order tracking, and admin dashboard — production-ready architecture.</p>
-      <p>
-        <code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>Express.js</code> <code>Tailwind CSS</code>
-      </p>
-      <p>✅ Full CRUD &nbsp;·&nbsp; Admin panel &nbsp;·&nbsp; Responsive UI</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📸 Pixify — Social Media App</h3>
-      <p>An Instagram-inspired social platform with post feeds, likes, comments, follow system, and cloud image uploads. Full MERN + Next.js stack.</p>
-      <p>
-        <code>Next.js</code> <code>MongoDB</code> <code>Cloudinary</code> <code>JWT</code> <code>Tailwind CSS</code>
-      </p>
-      <p>✅ Social features &nbsp;·&nbsp; Cloud media &nbsp;·&nbsp; Secure sessions</p>
-    </td>
   </tr>
 </table>
 
