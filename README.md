@@ -127,6 +127,14 @@ stack:      MERN · Next.js · REST APIs · Cloud Deployments
       </p>
       <p>✅ Deployed on Vercel &nbsp;·&nbsp; REST API &nbsp;·&nbsp; JWT Auth</p>
     </td>
+   <td width="50%" valign="top">
+    <h3>🤖 Cyber Saffron AI Agents</h3>
+    <p>An AI-powered lead generation and sales automation platform featuring autonomous agents for lead discovery, qualification, task orchestration, and email outreach. Built with modern async backend architecture and containerized deployment.</p>
+    <p>
+      <code>FastAPI</code> <code>Python</code> <code>PostgreSQL</code> <code>Redis</code> <code>Gemini AI</code> <code>Docker</code> <code>SQLAlchemy</code> <code>Resend API</code>
+    </p>
+    <p>✅ AI Agents &nbsp;·&nbsp; Async Processing &nbsp;·&nbsp; Automated Lead Pipeline &nbsp;·&nbsp; Dockerized Deployment</p>
+  </td>
   </tr>
 </table>
 
